@@ -1,0 +1,5 @@
+mouse
+laptop
+key
+micriphone
+клавиатура
